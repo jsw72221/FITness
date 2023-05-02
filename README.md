@@ -12,7 +12,7 @@
 2023.01.09 - 2023.02.26
 
 
-# ⚒️ Skills
+### ⚒️ SKILLS
 
 ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3bf902c4-03b0-4218-9247-b0c8d315939b/Line_1_(1).png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3bf902c4-03b0-4218-9247-b0c8d315939b/Line_1_(1).png)
 
