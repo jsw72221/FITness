@@ -6,6 +6,10 @@
 
                                 홈페이지 메인
 
+헬스 및 피트니스의 관심도가 오름에 따라 사람들 요구에 맞는 운동시설을 추천 해주기 위한 웹 사이트.
+
+2023 01 09 - 2023 02 26
+
 ## ⚒️ Skills
 
 
@@ -20,7 +24,6 @@ HTML / CSS / JavaScript
 ### BackEnd
 
 Servlet / JSP, jdbc
-Spring Framework, Mybatis, Ajax
 
 ### Oracle
 
