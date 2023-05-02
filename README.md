@@ -6,6 +6,30 @@
 
                                 홈페이지 메인
 
+## ⚒️ Skills
+
+
+### Language
+
+JAVA
+
+### FrontEnd
+
+HTML / CSS / JavaScript 
+
+### BackEnd
+
+Servlet / JSP, jdbc
+Spring Framework, Mybatis, Ajax
+
+### Oracle
+
+Sql Programming
+
+### Git / SourceTree
+
+
+
 ### 🖥 맡은 부분
 
 - 회원가입/ 로그인 , 관리자페이지를 맡았습니다.
